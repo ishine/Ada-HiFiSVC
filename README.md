@@ -1,5 +1,5 @@
 # AdaSVC
-AdaSVC is based on AdaHIFIGAN for Singing Voice Conversion
+AdaSVC is based on AdaHiFi-GAN for Singing Voice Conversion
 
 # AdaVocoder: Adaptive Vocoder for Custom Voice
 https://github.com/yuan1615/AdaVocoder
